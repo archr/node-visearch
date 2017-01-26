@@ -1,0 +1,27 @@
+{
+  "name": "node-visearch",
+  "version": "0.1.0",
+  "description": "ViSearch Search API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archr/node-visearch.git"
+  },
+  "keywords": [
+    "visearch"
+  ],
+  "author": "Antonio Sandoval",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/archr/node-visearch/issues"
+  },
+  "homepage": "https://github.com/archr/node-visearch#readme",
+  "dependencies": {
+    "lodash.foreach": "^4.5.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
